@@ -12,5 +12,11 @@ public class Question34 {
         //Stream.of(word.split(""))
         System.out.println(Pattern.compile("").splitAsStream(word)
                 .map(String::toUpperCase).filter(vowels::contains).collect(toSet()));
+
+        for (String letter : word.split("")) {
+            if (vowels.contains(letter.toUpperCase())) {
+                System.out.print(letter);
+            }
+        }
     }
 }
