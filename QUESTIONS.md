@@ -73,3 +73,4 @@
         output --> "teemuS si eman yM ,olleH"
 58. Given an array, move all the zeroes to the end of the array.
 59. Split the string with spaces and string enclosed within double quotes should be considered as one.
+60. Print the numbers from 1 to 100 excluding all the squares of the numbers upto 100.

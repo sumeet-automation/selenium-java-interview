@@ -1,3 +1,4 @@
+import java.util.List;
 import java.util.function.Predicate;
 import java.util.stream.IntStream;
 
@@ -9,6 +10,16 @@ public class Question1 {
     public static void main(String[] args) {
         printNumbers();
         printNumbersLambdas();
+        List<Integer> ignoredNumber = List.of(4, 7, 8);
+        printNumbersUsingList(ignoredNumber);
+    }
+
+    private static void printNumbersUsingList(List<Integer> ignoredNumber) {
+        for (int i=1; i<=10; i++) {
+            if ( !ignoredNumber.contains(i) ) {
+                System.out.println(i);
+            }
+        }
     }
 
     public static void printNumbers() {
