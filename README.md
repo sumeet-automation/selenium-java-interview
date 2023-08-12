@@ -76,5 +76,5 @@
 58. Given an array, move all the zeroes to the end of the array.
 59. Split the string with spaces and string enclosed within double quotes should be considered as one.
 60. Print the numbers from 1 to 100 excluding all the squares of the numbers upto 100.
-61. Write a program to remove all the duplicate white spaces in a string. i/p ---> I live   in Bangalore o/p ---> I live in Bangalore 
+61. Write a program to remove all the duplicate white spaces in a string. i/p ---> I    live   in Bangalore o/p ---> I live in Bangalore (multiple spaces are there between each word [no fix length])
 62. Write a program to multiply all indices of an array except the current one. eg. i/p -->[1,2,3,4] o/p --> [24,12,8,6]
