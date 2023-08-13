@@ -24,7 +24,8 @@
 19. Write a program to sort the first 4 elements of an array.
 20. Write a program to swap two values in a variable.
 21. Write a program to swap two values in a variable without using third variable.
-22. Given a number, calculate the sum of all even digits and all odd digits separately in a given number. 
+22. Given a number, calculate the sum of all even digits and all odd digits separately in a given number.
+58. Given an array, move all the zeroes to the end of the array.
 
 ## Strings 
 23. Write a program to remove the leading and trailing white spaces from a String.
@@ -50,11 +51,19 @@
 42. Write a program to find all the permutations of a String. String will not contain any duplicates. Eg. I/P “xyz”, O/P->”xyz”,”yzx”, ”zxy”,”xzy”,”yxz”,”zyx”.
 43. Write a program to remove all the white spaces in a string.
 44. Given a string "ABCBCBAABCB", count the occurrence of “BCB” 
+57. Write a program to reverse a string reserving the spaces.
+    Eg. input --> "Hello, My name is Sumeet"
+    output --> "teemuS si eman yM ,olleH"
+56. Given a string, does "xyz" appear in the middle of the string? To define middle, we'll say that the number of chars to the left and right of the "xyz" must differ by at most one.
+    xyzMiddle("AAxyzBB") → true
+    xyzMiddle("AxyzBB") → true
+    xyzMiddle("AxyzBBB") → false
+    xyzMiddle("ABBxyzB") → false
 
 ## Collections 
 45. Write a program to convert a list to an array.
-46. Write a program that defines a person class with attributes firstName, lastName, and age. Given a list of 10 persons (List<Person>), sort the list by implementing the Comparable interface by age.
-47. Write a program that defines a person class with attributes firstName, lastName, and age. Given a list of 10 persons (List<Person>), sort the list by implementing the Comparator interface by firstName.
+46. Write a program that defines a person class with attributes firstName, lastName, and age. Given a list of 10 persons (List<others.Person>), sort the list by implementing the Comparable interface by age.
+47. Write a program that defines a person class with attributes firstName, lastName, and age. Given a list of 10 persons (List<others.Person>), sort the list by implementing the Comparator interface by firstName.
 48. Write a program that defines a person class with attributes firstName, lastName, and age. Given a map grouped by age.
 49. How to reverse an ArrayList in java.
 50. Given a list, how would you convert it to an unmodifiable list. 
@@ -64,17 +73,9 @@
 52. Write a Set of 5 numbers in single line.  
 53. Write a method that print whether a given is greater than 5 or not. You can use only if block. not, else block, or any other loop, or declare a new variable.
 54. Write a program to find the prime numbers from 1 to 100.
-55. Write a program to rotate the matrix by 90 degree in clockwise and anticlockwise. 
-56. Given a string, does "xyz" appear in the middle of the string? To define middle, we'll say that the number of chars to the left and right of the "xyz" must differ by at most one.
-    xyzMiddle("AAxyzBB") → true
-    xyzMiddle("AxyzBB") → true
-    xyzMiddle("AxyzBBB") → false
-    xyzMiddle("ABBxyzB") → false
-57. Write a program to reverse a string reserving the spaces.
-    Eg. input --> "Hello, My name is Sumeet"
-        output --> "teemuS si eman yM ,olleH"
-58. Given an array, move all the zeroes to the end of the array.
+55. Write a program to rotate the matrix by 90 degree in clockwise and anticlockwise.
 59. Split the string with spaces and string enclosed within double quotes should be considered as one.
 60. Print the numbers from 1 to 100 excluding all the squares of the numbers upto 100.
 61. Write a program to remove all the duplicate white spaces in a string. i/p ---> I    live   in Bangalore o/p ---> I live in Bangalore (multiple spaces are there between each word [no fix length])
 62. Write a program to multiply all indices of an array except the current one. eg. i/p -->[1,2,3,4] o/p --> [24,12,8,6]
+63. Given an expression string exp, write a program to examine whether the pairs and the orders of “{“, “}”, “(“, “)”, “[“, “]” are correct in the given expression.

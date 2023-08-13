@@ -51,8 +51,8 @@
 
 ## Collections 
 45. Write a program to convert a list to an array.
-46. Write a program that defines a person class with attributes firstName, lastName, and age. Given a list of 10 persons (List<Person>), sort the list by implementing the Comparable interface by age.
-47. Write a program that defines a person class with attributes firstName, lastName, and age. Given a list of 10 persons (List<Person>), sort the list by implementing the Comparator interface by firstName.
+46. Write a program that defines a person class with attributes firstName, lastName, and age. Given a list of 10 persons (List<others.Person>), sort the list by implementing the Comparable interface by age.
+47. Write a program that defines a person class with attributes firstName, lastName, and age. Given a list of 10 persons (List<others.Person>), sort the list by implementing the Comparator interface by firstName.
 48. Write a program that defines a person class with attributes firstName, lastName, and age. Given a map grouped by age.
 49. How to reverse an ArrayList in java.
 50. Given a list, how would you convert it to an unmodifiable list. 
