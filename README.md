@@ -68,7 +68,7 @@
 49. How to reverse an ArrayList in java.
 50. Given a list, how would you convert it to an unmodifiable list. 
 
-## Extra Questions
+## Complex Questions
 51. Write a program to reverse an integer.
 52. Write a Set of 5 numbers in single line.  
 53. Write a method that print whether a given is greater than 5 or not. You can use only if block. not, else block, or any other loop, or declare a new variable.

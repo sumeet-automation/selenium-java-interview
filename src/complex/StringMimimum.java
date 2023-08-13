@@ -1,3 +1,5 @@
+package complex;
+
 public class StringMimimum {
 
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package complex;
+
 import java.util.stream.IntStream;
 
 import static java.lang.Math.log10;
