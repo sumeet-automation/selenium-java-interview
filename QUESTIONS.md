@@ -76,3 +76,4 @@
 60. Print the numbers from 1 to 100 excluding all the squares of the numbers upto 100.
 61. Write a program to remove all the duplicate white spaces in a string. i/p ---> I live   in Bangalore o/p ---> I live in Bangalore 
 62. Write a program to multiply all indices of an array except the current one. eg. i/p -->[1,2,3,4] o/p --> [24,12,8,6]
+63. Write a program to print all two digits numbers whose digits sum would be 10. Eg 22 will not be printed as 2+2!=10 while 28 would be printer as 2+8=10
