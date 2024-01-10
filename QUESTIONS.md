@@ -47,7 +47,13 @@
 41. Write a program to rotate a string. Eg. “ABCD” to “DABC”.
 42. Write a program to find all the permutations of a String. String will not contain any duplicates. Eg. I/P “xyz”, O/P->”xyz”,”yzx”, ”zxy”,”xzy”,”yxz”,”zyx”.
 43. Write a program to remove all the white spaces in a string.
-44. Given a string "ABCBCBAABCB", count the occurrence of “BCB” 
+44. Given a string "ABCBCBAABCB", count the occurrence of “BCB”
+64. Write program to find wether the single group of elements in an array is present in the another with respective of order
+Example :
+Arr1 = [a:b:c;d:e:f;g;h;i]
+Arr2 = [a:c]
+Output :
+True.
 
 ## Collections 
 45. Write a program to convert a list to an array.
