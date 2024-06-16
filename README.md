@@ -23,6 +23,7 @@
 20. Write a program to swap two values in a variable.
 21. Write a program to swap two values in a variable without using third variable.
 22. Given a number, calculate the sum of all even digits and all odd digits separately in a given number.
+65. [Complex] Given a array of 10 numbers, find the largest sum of subset of 3 continous elements.
 
 ## Strings
 23. Write a program to remove the leading and trailing white spaces from a String.
